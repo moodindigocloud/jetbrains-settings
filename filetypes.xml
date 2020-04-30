@@ -2,6 +2,11 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="jhalfs" type="Bash" />
+      <mapping pattern="func_download_pkgs" type="Bash" />
+      <mapping pattern="func_custom_pkgs" type="Bash" />
+      <mapping pattern="do_copy_files" type="Bash" />
+      <mapping pattern="func_book_parser" type="Bash" />
       <mapping pattern="colors" type="Ini" />
       <mapping pattern="kdeglobals" type="Ini" />
       <mapping ext="colors" type="Ini" />
@@ -16,11 +21,6 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern="do_copy_files" type="Bash" />
-      <mapping pattern="func_book_parser" type="Bash" />
-      <mapping pattern="func_custom_pkgs" type="Bash" />
-      <mapping pattern="func_download_pkgs" type="Bash" />
-      <mapping pattern="jhalfs" type="Bash" />
     </extensionMap>
   </component>
 </application>
