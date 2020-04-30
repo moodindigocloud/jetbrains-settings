@@ -1,0 +1,101 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CommitMessageInspectionProfile">
+        <profile version="1.0">
+          <inspection_tool class="BodyLimit" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="SubjectBodySeparation" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="SubjectLimit" enabled="true" level="WARNING" enabled_by_default="true" />
+        </profile>
+      </component>
+      <component name="CopyrightManager">
+        <LanguageOptions name="Python">
+          <option name="block" value="false" />
+        </LanguageOptions>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" value="Default" />
+        <option name="USE_PROJECT_PROFILE" value="false" />
+        <version value="1.0" />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="eric_buscher" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Angular</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Angular</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="ACTIVE_CLOUD_PROJECT_ACCOUNT" value="eric.buscher@moodindigocloud.com" />
+        <property name="ACTIVE_CLOUD_PROJECT_ID" value="cloudbuild-247208" />
+        <property name="ACTIVE_CLOUD_PROJECT_NAME" value="cloudbuild" />
+        <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="14758373759" />
+        <property name="last_opened_file_path" value="$USER_HOME$/Development/io/gcr/cloudbuild-247208" />
+        <property name="node.js.path.for.package.stylelint" value="project" />
+        <property name="node.js.path.for.package.tslint" value="project" />
+        <property name="node.js.selected.package.stylelint" value="" />
+        <property name="node.js.selected.package.tslint" value="(autodetect)" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="preferences.general" />
+        <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+      </component>
+      <component name="TypeScriptCompiler">
+        <option name="recompileOnChanges" value="true" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+        <option name="FORCE_NON_EMPTY_COMMENT" value="true" />
+        <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
