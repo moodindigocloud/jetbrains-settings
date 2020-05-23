@@ -14,9 +14,13 @@
           <option name="url" value="https://github.com/clearlinux/how-to-clear.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/clearlinux/mixer-tools.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Development/PyCharmProjects/jhalfs-dev" />
+    <option name="cloneParentDir" value="$USER_HOME$/Development/PyCharmProjects/github.com/clearlinux" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
