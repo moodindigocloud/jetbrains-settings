@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="eric-buscher" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/clearlinux/how-to-clear.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Development/PyCharmProjects/jhalfs-dev" />
