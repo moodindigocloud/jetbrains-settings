@@ -7,6 +7,7 @@
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="accentScrollbars" value="false" />
+    <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
