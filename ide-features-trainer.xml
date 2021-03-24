@@ -1,5 +1,6 @@
 <application>
   <component name="GroupManager">
+    <option name="showTutorialsOnWelcomeFrame" value="true" />
     <expandedByName>
       <entry name="Tutorials" expanded="true" />
       <entry name="Projects" expanded="true" />

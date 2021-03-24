@@ -1,10 +1,5 @@
 <application>
   <component name="DockerRegistry">
-    <DockerRegistry email="eric.buscher@moodindigocloud.com">
-      <option name="address" value="registry.hub.docker.com" />
-      <option name="name" value="Docker Registry" />
-      <option name="username" value="ebuscher" />
-    </DockerRegistry>
     <DockerRegistry email="" password="">
       <option name="address" value="gcr.io/cloudbuild-247208/gcc-build" />
       <option name="name" value="moodindigocloud.com GCP @gcr.io" />

@@ -3,10 +3,8 @@
     <option name="fitContentAfterLayout" value="true" />
     <option name="categories">
       <map>
-        <entry id="AlchemyModelDependency" categories="Fields" />
-        <entry id="AppEngineModelDependency" categories="Fields" />
-        <entry id="DjangoModelDependency" categories="Fields" />
-        <entry id="Python" categories="Methods;Inner Classes;Fields" />
+        <entry id="JAVA" categories="Fields;Constructors;Methods;Properties;Inner Classes;Show Cyclic" />
+        <entry id="MODULES" categories="Libraries;Test dependencies;Show Paths: Root -&gt; Selection;Show Neighbours of Selected Nodes;Borderless View" />
       </map>
     </option>
   </component>
