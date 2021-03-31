@@ -9,12 +9,12 @@
     <option name="tableSelectedColor" value="0000ffff" />
     <option name="contrastColor" value="210042ff" />
     <option name="disabledColor" value="626262ff" />
-    <option name="secondaryBackgroundColor" value="313131ff" />
+    <option name="secondaryBackgroundColor" value="180030ff" />
     <option name="buttonColor" value="8000ffff" />
     <option name="selectionForegroundColor" value="ffffffff" />
     <option name="selectionBackgroundColor" value="0000ffff" />
     <option name="textColor" value="9e9e9eff" />
     <option name="foregroundColor" value="d5d5d5ff" />
-    <option name="backgroundColor" value="180030ff" />
+    <option name="backgroundColor" value="000000ff" />
   </component>
 </application>
