@@ -18,9 +18,13 @@
           <option name="url" value="https://android.googlesource.com/kernel/configs" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/android.googlesource.com/kernel" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/git.kernel.org/pub/scm/linux/kernel/git/stable" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
