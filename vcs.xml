@@ -24,7 +24,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/git.kernel.org/pub/scm/linux/kernel/git/stable" />
+    <option name="cloneParentDir" value="$USER_HOME$/Development" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
