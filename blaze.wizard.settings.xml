@@ -1,8 +1,9 @@
 <application>
   <component name="BlazeWizardUserSettings">
     <settings>
-      <entry key="blaze-wizard.last-imported-bazel-workspace" value="$USER_HOME$/trunk/github.com/bazelbuild/bazel-buildfarm::/home/buscheer/IdeaProjects/remote-apis" />
-      <entry key="select-project-view.selected-option" value="create-from-scratch" />
+      <entry key="blaze-wizard.last-imported-bazel-workspace" value="$USER_HOME$/Development/remote-apis::/home/buscheer/trunk/github.com/bazelbuild/bazel-buildfarm::/home/buscheer/IdeaProjects/remote-apis" />
+      <entry key="generate-from-build-file.last-workspace-path" value="BUILD.bazel" />
+      <entry key="select-project-view.selected-option" value="generate-from-build-file" />
       <entry key="select-workspace.selected-option" value="use-existing-bazel-workspace" />
     </settings>
   </component>
