@@ -1,0 +1,9 @@
+<application>
+  <component name="YouTrack Issues">
+    <option name="persistentIssues">
+      <map>
+        <entry key="bazel-remote-apis random@https://moodindigocloud.myjetbrains.com/youtrack" value="[]" />
+      </map>
+    </option>
+  </component>
+</application>
