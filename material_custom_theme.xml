@@ -1,20 +1,20 @@
 <application>
   <component name="MaterialCustomThemeConfig">
-    <option name="excludedColor" value="626262ff" />
-    <option name="accentColor" value="e040fbff" />
-    <option name="notificationsColor" value="31419eff" />
-    <option name="treeSelectionColor" value="de41fa30" />
-    <option name="highlightColor" value="31419eff" />
-    <option name="secondBorderColor" value="b39ddbff" />
-    <option name="tableSelectedColor" value="d841faff" />
-    <option name="contrastColor" value="313131ff" />
-    <option name="disabledColor" value="626262ff" />
-    <option name="secondaryBackgroundColor" value="281646ff" />
-    <option name="buttonColor" value="32429cff" />
-    <option name="selectionForegroundColor" value="fafafaff" />
-    <option name="selectionBackgroundColor" value="e040fb80" />
-    <option name="textColor" value="b39ddbff" />
+    <option name="excludedColor" value="9e9e9eff" />
+    <option name="accentColor" value="ea98ffff" />
+    <option name="notificationsColor" value="000000ff" />
+    <option name="treeSelectionColor" value="53446d30" />
+    <option name="highlightColor" value="ea98ffff" />
+    <option name="secondBorderColor" value="53446dff" />
+    <option name="tableSelectedColor" value="869adeff" />
+    <option name="contrastColor" value="493c60ff" />
+    <option name="disabledColor" value="9e9e9eff" />
+    <option name="secondaryBackgroundColor" value="45395aff" />
+    <option name="buttonColor" value="6c578cff" />
+    <option name="selectionForegroundColor" value="ffffffff" />
+    <option name="selectionBackgroundColor" value="869ade80" />
+    <option name="textColor" value="bfbfbfff" />
     <option name="foregroundColor" value="ffffffff" />
-    <option name="backgroundColor" value="000000ff" />
+    <option name="backgroundColor" value="5b4a76ff" />
   </component>
 </application>
